@@ -1,0 +1,52 @@
+header.title {
+    text-align: center;
+}
+
+table {
+    border-color: rgb(201, 86, 20);
+    border-style: solid;
+    border-width: 5px;
+}
+
+thead {
+    background-color: rgb(205, 163, 86);
+}
+
+th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+tr td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p.left-shift {
+    text-align: left;
+}
+
+p.right-shift {
+    text-align: right;
+}
+
+aside {
+    /* Change float to better alternative!!! */
+    float: right;
+    max-width: 300px;
+}
+
+aside>img {
+    max-width: 100%;
+}
+
+section.photos img {
+float: left;
+max-width: 30vw;
+}

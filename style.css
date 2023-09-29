@@ -1,3 +1,11 @@
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
 header.title {
     text-align: center;
 }
@@ -23,7 +31,7 @@ tr td {
 }
 
 p {
-    font-size: 20px;
+    font-size: 30px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -38,7 +46,7 @@ p.right-shift {
 
 aside {
     /* Change float to better alternative!!! */
-    float: right;
+    /*float: right; */
     max-width: 300px;
 }
 
@@ -47,6 +55,7 @@ aside>img {
 }
 
 section.photos img {
-float: left;
+/* float: left; */
 max-width: 30vw;
 }
+

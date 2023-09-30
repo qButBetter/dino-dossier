@@ -25,6 +25,10 @@ th {
     padding: 5px;
 }
 
+td>figure>img{
+max-width: 30vw;
+}
+
 tr td {
     border: 1px solid black;
     padding: 5px;
@@ -59,3 +63,19 @@ section.photos img {
 max-width: 30vw;
 }
 
+
+section.behaviors img {
+    max-width: 50vw;
+}
+
+section.diet img {
+    max-width: 30vw;
+}
+
+section.fossils img{
+    max-width: 60vw;
+}
+
+section.fun-facts li {
+    font-size: 25px;
+}

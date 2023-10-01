@@ -48,6 +48,10 @@ p.right-shift {
     text-align: right;
 }
 
+p.center-shift {
+    text-align: center;
+}
+
 aside {
     /* Change float to better alternative!!! */
     /*float: right; */
